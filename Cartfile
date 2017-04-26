@@ -1,0 +1,5 @@
+# RxSwift
+github "ReactiveX/RxSwift" ~> 3.0
+
+# SwiftForms
+github "ortuman/SwiftForms" ~> 1.7
