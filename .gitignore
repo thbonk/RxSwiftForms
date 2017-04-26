@@ -1,4 +1,4 @@
-# Created by https://www.gitignore.io/api/xcode,macos,carthage,swiftpackagemanager
+# Created by https://www.gitignore.io/api/xcode,macos,carthage
 
 ### Carthage ###
 # Carthage - A simple, decentralized dependency manager for Cocoa
@@ -32,12 +32,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-### SwiftPackageManager ###
-Packages
-.build
-xcuserdata
-DerivedData/
-
 ### Xcode ###
 # Xcode
 #
@@ -69,4 +63,4 @@ xcuserdata/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 
-# End of https://www.gitignore.io/api/xcode,macos,carthage,swiftpackagemanager
+# End of https://www.gitignore.io/api/xcode,macos,carthage
